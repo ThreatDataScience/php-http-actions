@@ -2,7 +2,7 @@
   "name": "threatdatascience/php-http-actions",
   "type": "library",
   "version": "1.0.0",
-  "description": "A very _slim_ HTTP Action implementation",
+  "description": "a very minimal helper class for writing RAD PSR-7 PHP applications",
   "authors": [
     {
       "name": "Andrew Breksa",
