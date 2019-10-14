@@ -1,7 +1,8 @@
 {
   "name": "threatdatascience/php-http-actions",
   "type": "library",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "license": "MIT",
   "description": "a very minimal helper class for writing RAD PSR-7 PHP applications",
   "authors": [
     {

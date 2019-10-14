@@ -9,7 +9,6 @@ use ThreatDataScience\HttpActions\AbstractAction;
 
 /**
  * Class AbstractActionTest
- * @copyright 2019 Threat Data Science
  * @author Andrew Breksa <andrew@threatdatascience.io>
  */
 class AbstractActionTest extends TestCase

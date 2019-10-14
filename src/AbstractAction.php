@@ -11,7 +11,6 @@ use function Suin\Json\json_encode;
 /**
  * Class AbstractAction
  * @package ThreatDataScience\HttpActions
- * @copyright 2019 Threat Data Science
  * @author Andrew Breksa <andrew@threatdatascience.io>
  */
 abstract class AbstractAction implements ActionInterface

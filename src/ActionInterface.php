@@ -9,7 +9,6 @@ use Psr\Http\Message\ServerRequestInterface;
 /**
  * Interface ActionInterface
  * @package ThreatDataScience\HttpActions
- * @copyright 2019 Threat Data Science
  * @author Andrew Breksa <andrew@threatdatascience.io>
  */
 interface ActionInterface
